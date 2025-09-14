@@ -1,1 +1,1 @@
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sunilcsc.NM)](https://sunilcsc.github.io/NM/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://sunilcsc.github.io/NM/)
