@@ -1,1 +1,1 @@
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sunilcsc.NM)](https://srikanthnani.com)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sunilcsc.NM)](https://sunilcsc.github.io/NM/)
